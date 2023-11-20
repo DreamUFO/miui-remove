@@ -1,2 +1,2 @@
 # miui-remove
-miui 优化
+miui 优化脚本
